@@ -50,7 +50,7 @@
 </ul>
 
 ### 🔥 My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Gallahaad/&theme=javascript-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Gallahaad/&theme=great-gatsby)](https://git.io/streak-stats)
 
 
 
