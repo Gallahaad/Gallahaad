@@ -49,7 +49,7 @@
         <li>⚡ Fun fact: Copy-and-Paste was programmed by programmers for programmers actually.😜</li>
 </ul>
 
-### :fire: My Stats :
+### 🔥 My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Gallahaad/&theme=javascript-dark)](https://git.io/streak-stats)
 
 
