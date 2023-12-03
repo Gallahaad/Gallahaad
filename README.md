@@ -50,7 +50,7 @@
 </ul>
 
 ### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Gallahaad)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Gallahaad/?background=00143d)](https://git.io/streak-stats)
 
 
 
