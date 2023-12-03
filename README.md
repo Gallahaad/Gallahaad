@@ -43,8 +43,8 @@
 
 <h2>Quick Snips</h2>
 <ul>
-        <li>💻 I am currently working on couple of extensive web apps on React.js</li>
-        <li>📖 Currently learning about Web3 while also training in Django and Next.js</li>
+        <li>💻 I am currently working on couple of extensive web apps on Next.js</li>
+        <li>📖 Currently learning about Web3 specifically about Solidity and Smart Contracts</li>
         <li>❓Ask me about Web Development related technologies and UI/UX practices anyday😎</li>
         <li>⚡ Fun fact: Copy-and-Paste was programmed by programmers for programmers actually.😜</li>
 </ul>
