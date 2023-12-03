@@ -16,7 +16,7 @@
 <h4>Here's some intel on me:</h4>
 <ul>
         <li>Nationality: 🇮🇳 Indian</li>
-        <li>👀 I’m a Web Developer💻 currently completing my  path to take over the worl...🫢, Did I just let me inside voice out?</li>
+        <li>👀 I’m a MERN Stack Developer💻 currently completing my  path to take over the worl...🫢, Did I just let me inside voice out?</li>
         <li>The interesting thing though? I am a Civil Engineer👷‍♂️ as per my Bachelors Degree from the University of Petroleum & Energy Studies that I graduated from in 2022.</li>
         <li>I'm passionate about web development as I always seek bigger and better challenges to make awesome applications and websites! </li>
         <li>I'm up for collabs, you can reach me on <img src="https://img.shields.io/badge/%3CDiscord%3E-f2f3f5?logo=discord">, Username: Gallahaad</li>
