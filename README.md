@@ -33,8 +33,8 @@
     <a href="https://react.dev/"><img style="margin:10px;"  width="100" height="100"  src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt=""></a>
     <a href="https://www.python.org/"><img style="margin:10px;" width="100" height="100" src="https://img.icons8.com/color/100/python--v1.png" alt="python--v1"/></a>
     <a href="https://www.w3schools.com/c/c_intro.php"><img width="100" height="100" src="https://img.icons8.com/color/100/c-programming.png" alt="c-programming"/></a>
-    <a href="https://github.com/"><img style="margin:10px;" width="100" height="100" src="https://img.icons8.com/material-rounded/100/github.png" alt="github"/></a>
-    <a href="https://expressjs.com/"><img style="margin:10px;" width="100" height="100" src="https://img.icons8.com/ios/100/express-js.png" alt="express-js"/></a>
+    <a href="https://github.com/"><img style="margin:10px;" width="100" height="100" src="https://img.icons8.com/material-rounded/100/FFFFFF/github.png" alt="github"/></a>
+    <a href="https://expressjs.com/"><img style="margin:10px;" width="100" height="100" src="https://img.icons8.com/ios/100/FFFFFF/express-js.png" alt="express-js"/></a>
     <a href="https://ejs.co/#promo"><img style="margin:10px;" width="100" height="100" src="https://img.icons8.com/color/100/ejs.png" alt="ejs"/></a>
     <a href="https://www.w3schools.com/sql/"><img style="margin:10px;" width="100" height="100" src="https://img.icons8.com/color/100/sql.png" alt="sql"/></a>
     <a href="https://www.mongodb.com/"><img style="margin:10px;" width="100" height="100" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt=""></a>
